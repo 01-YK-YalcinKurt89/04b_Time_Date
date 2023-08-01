@@ -14,7 +14,7 @@ public class App {
 		
 		output("---------- Datum / outputn --------------------");
 		
-		// aktuelle Datum
+		// aktuelles Datum
 		LocalDate today = LocalDate.now();
 		output("Heutiges Datum: " + today);
 		
